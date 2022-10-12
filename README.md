@@ -1,9 +1,11 @@
 How to Use
 
 Download and Set up Python
+
 Install GIT
 
-create directories:
+Create directories:
+
 training/
     train/
         images/
@@ -14,8 +16,11 @@ open terminal in training
 
 Run these commands in order in your terminal:
 git clone https://github.com/SeanSon2005/PublicDataCollection.git
+
 cd hehehaha
+
 pip install -r requirements.txt
+
 python labelimages.py
 
 MOUSE REQUIRED
