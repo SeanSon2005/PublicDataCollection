@@ -7,8 +7,11 @@ Install GIT
 Create directories:
 
 training/
+
     train/
+
         images/
+        
         labels/
 
 open terminal in training
