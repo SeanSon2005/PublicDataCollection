@@ -19,12 +19,17 @@ pip install -r requirements.txt
 python labelimages.py
 
 MOUSE REQUIRED
+
 Mouse button 1, left button - image label top left point (MUST BE TOP LEFT)
     -top left will be marked by a black crosshair
     -specify top left before bottom right
+
 Mouse button 2, middle button - crop top left point
+
 Mouse button 3, right button - image label bottomm right point (MUST BE BOTTOM RIGHT)
+
 Space to move onto next image
+
 IF THERE IS NO BALL IN THE IMAGE PRESS "q"
 
 Red - crop
